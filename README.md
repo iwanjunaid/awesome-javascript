@@ -5,6 +5,7 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 * [Web Frameworks](#web-frameworks)
 * [Functional Programming](#functional-programming)
 * [Testing](#testing)
+* [Data Processing](#data-processing)
 
 ## Web Frameworks
 
@@ -22,6 +23,10 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 * [Mocha](http://mochajs.org/) - A feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun.
 * [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Vorlon.JS]() - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
+
+## Data Processing
+
+* [EclairJS](https://github.com/EclairJS/eclairjs-node) - Node.js API for Apache Spark with Remote Client.
 
 # License
 
