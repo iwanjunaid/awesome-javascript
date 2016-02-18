@@ -1,6 +1,6 @@
 # Awesome JavaScript
 
-A Curated List of Awesome Javascript Frameworks and Libraries.
+A curated list of awesome Javascript frameworks, libraries, tools and Resources.
 
 * [Web Frameworks](#web-frameworks)
 * [Functional Programming](#functional-programming)
