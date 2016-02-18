@@ -71,6 +71,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ### Books
 
+* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
 * [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) by Nicholas C. Zakas 
 
 ## License
