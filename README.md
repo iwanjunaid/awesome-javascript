@@ -3,13 +3,18 @@
 A Curated List of Awesome Javascript Frameworks and Libraries.
 
 * [Web Frameworks](#web-frameworks)
-
+* [Functional Programming](#functional-programming)
 
 ## Web Frameworks
 
-* [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-* [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+* [Express](http://expressjs.com) - Fast, unopinionated, minimalist web framework for Node.js.
+* [Meteor](https://www.meteor.com) - The JavaScript App Platform. Build apps that are a delight to use, faster than you ever thought possible.
 
+## Functional Programming
+
+* [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+* [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
+* [Lazy.js](http://danieltao.com/lazy.js/) - Similar to Underscore and Lodash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
 
 # License
 
