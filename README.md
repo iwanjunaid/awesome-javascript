@@ -63,6 +63,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ### Tips
 
 * [JS Tips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
+* [JavaScript Style](https://github.com/airbnb/javascript) - Airbnb JavaScript style guide.
 
 ### Web Reference
 
