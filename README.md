@@ -4,6 +4,7 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 
 * [Web Frameworks](#web-frameworks)
 * [Functional Programming](#functional-programming)
+* [Testing](#testing)
 
 ## Web Frameworks
 
@@ -15,6 +16,12 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 * [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 * [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 * [Lazy.js](http://danieltao.com/lazy.js/) - Similar to Underscore and Lodash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
+
+## Testing
+
+* [Mocha](http://mochajs.org/) - A feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun.
+* [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+* [Vorlon.JS]() - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 
 # License
 
