@@ -6,6 +6,7 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 * [Functional Programming](#functional-programming)
 * [Testing](#testing)
 * [Blog Engine](#blog-engine)
+* [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Resources](#resources)
 
@@ -43,6 +44,11 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 ## Blog Engine
 
 * [Ghost](https://ghost.org/) -  An open source publishing platform which is beautifully designed, easy to use, and free for everyone.
+
+## Data Visualization
+
+* [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data and helps you bring data to life using HTML, SVG, and CSS.
+* [Sigma](http://sigmajs.org/) - A JavaScript library dedicated to graph drawing.
 
 ## Data Processing
 
