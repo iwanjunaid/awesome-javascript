@@ -11,6 +11,7 @@ A curated list of awesome Javascript frameworks, libraries, tools and resources.
 
 * [Express](http://expressjs.com) - Fast, unopinionated, minimalist web framework for Node.js.
 * [Meteor](https://www.meteor.com) - The JavaScript App Platform. Build apps that are a delight to use, faster than you ever thought possible.
+* [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
 
 ## Functional Programming
 
