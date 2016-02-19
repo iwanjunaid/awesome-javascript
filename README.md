@@ -105,6 +105,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [SuperAgent](https://github.com/visionmedia/superagent) - A small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features.
 * [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 * [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for Node.js.
+* [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
 
 ## Functional Programming
 
