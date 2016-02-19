@@ -28,6 +28,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Keyboard](#keyboard)
+* [PDF](#pdf)
 * [Image Processing](#image-processing)
 * [Audio](#audio)
 * [Video](#video)
@@ -194,6 +195,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Mousetrap](https://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
 * [Keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
 
+## PDF
+
+* [PDFkit](https://github.com/devongovett/pdfkit) - A JavaScript PDF generation library for Node and the browser.
+* [PDF.js](https://github.com/mozilla/pdf.js) - A Portable Document Format (PDF) viewer that is built with HTML5.
 ## Image Processing
 
 * [CamanJS](http://camanjs.com/) - A combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
