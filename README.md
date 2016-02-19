@@ -159,6 +159,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Torrent](https://github.com/maxogden/torrent) - Download torrents with node from the CLI.
 
+## Git
+
+* [NodeGit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+
 ## Functional Programming
 
 * [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
