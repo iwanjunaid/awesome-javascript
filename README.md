@@ -181,6 +181,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ### Tutorial
 
 * [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
+* [Angular 2 Education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2.
 
 ### Tips and Tricks
 
