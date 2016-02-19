@@ -70,6 +70,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [React Native](https://facebook.github.io/react-native/) - A framework for building native apps using React.
 
+## UI Interaction Libraries
+
+* [Hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+
 ## Package Managers and Sources
 
 * [NPM](https://www.npmjs.com/) - Node Package Manager.
