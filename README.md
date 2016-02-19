@@ -3,6 +3,8 @@
 A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Web Frameworks](#web-frameworks)
+* [UI Libraries](#ui-libraries)
+* [Mobile](#mobile)
 * [Functional Programming](#functional-programming)
 * [Testing](#testing)
 * [Regular Expression](#regular-expression)
@@ -36,6 +38,14 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Mean](http://mean.io/) - An opinionated fullstack javascript framework - which simplifies and accelerates web application development.
 * [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
 * [Diet](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
+
+## UI Libraries
+
+* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces using components, virtual DOM and implements one-way reactive data flow.
+
+## Mobile
+
+* [React Native](https://facebook.github.io/react-native/) - A framework for building native apps using React.
 
 ## Functional Programming
 
