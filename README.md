@@ -5,8 +5,11 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Web Frameworks](#web-frameworks)
 * [UI Libraries](#ui-libraries)
 * [Mobile](#mobile)
-* [Functional Programming](#functional-programming)
+* [Real-time](#real-time)
 * [Testing](#testing)
+* [Logging](#loggin)
+* [HTTP](#http)
+* [Functional Programming](#functional-programming)
 * [Regular Expression](#regular-expression)
 * [Number](#number)
 * [Date](#date)
@@ -40,7 +43,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Aurelia](http://aurelia.io/) - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [Total.js](https://www.totaljs.com/) - Free web application framework for building Web sites and Web applications using JavaScript, HTML and CSS. Node.js (HMVC) web application framework.
 * [MERN](http://mern.io/) - A scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS.
-* [MEAN](http://mean.io/) - An opinionated fullstack javascript framework - which simplifies and accelerates web application development.
+* [MEAN](http://mean.io/) - An opinionated fullstack javascript framework (MongoDB, Express, Angular and Node.JS) - which simplifies and accelerates web application development.
 * [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
 * [Diet](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
 
@@ -53,11 +56,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [React Native](https://facebook.github.io/react-native/) - A framework for building native apps using React.
 
-## Functional Programming
+## Real-time
 
-* [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
-* [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
-* [Lazy.js](http://danieltao.com/lazy.js/) - Similar to Underscore and Lodash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
+* [Socket.io](http://socket.io/) - The fastest and most reliable real-time engine. Works on every platform, browser or device, focusing equally on reliability and speed.
+* [Deepstream.io](https://deepstream.io/) - A clusterable server that provides everything necessary to build powerful realtime applications.
 
 ## Testing
 
@@ -65,12 +67,23 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Vorlon.JS](http://vorlonjs.com/) - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 
+## Logging
+
+* [Winston](https://github.com/winstonjs/winston) - a multi-transport async logging library for Node.js.
+* [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for Node.js services.
+
 ## HTTP
 
 * [Request](https://github.com/request/request) - Simplified HTTP request client.
 * [SuperAgent](https://github.com/visionmedia/superagent) - A small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features.
 * [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 * [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for Node.js.
+
+## Functional Programming
+
+* [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+* [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
+* [Lazy.js](http://danieltao.com/lazy.js/) - Similar to Underscore and Lodash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
 
 ## Regular Expression
 
