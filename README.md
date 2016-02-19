@@ -177,6 +177,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Image Processing
 
 * [CamanJS](http://camanjs.com/) - A combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
+* [Jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
 ## Audio
 
