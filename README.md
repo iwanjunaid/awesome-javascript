@@ -13,6 +13,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
+* [Science](#science)
+  * [Satellite](#satellite)
 * [Resources](#resources)
 
 ## Web Frameworks
@@ -81,6 +83,12 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Data Processing
 
 * [EclairJS](https://github.com/EclairJS/eclairjs-node) - Node.js API for Apache Spark with Remote Client.
+
+## Science
+
+### Satellite
+
+* [Himawari](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite.
 
 ## Resources
 
