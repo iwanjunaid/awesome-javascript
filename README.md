@@ -21,6 +21,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [WYSIWYG](#wysiwyg)
 * [Linter](#linter)
 * [Blog Engine](#blog-engine)
+* [CMS](#cms)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Keyboard](#keyboard)
@@ -152,6 +153,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Blog Engine
 
 * [Ghost](https://ghost.org/) -  An open source publishing platform which is beautifully designed, easy to use, and free for everyone.
+
+## CMS
+
+* [Relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL.
 
 ## Data Visualization
 
