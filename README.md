@@ -13,6 +13,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Math](#math)
 * [Data Structure](#data-structure)
 * [WYSIWYG](#wysiwyg)
+* [Linter](#linter)
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
@@ -87,6 +88,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## WYSIWYG
 
 * [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+
+## Linter
+
+* [ESLint](http://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 
 ## Blog Engine
 
