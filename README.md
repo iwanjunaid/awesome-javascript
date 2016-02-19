@@ -18,6 +18,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Audio](#audio)
+* [Video](#video)
 * [Robotics & IoT](#robotics-iot)
 * [Science](#science)
   * [Satellite](#satellite)
@@ -111,6 +112,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Audio
 
 * [SoundJS](http://www.createjs.com/soundjs) - A JavaScript library that provides a simple API, and powerful features to make working with audio a breeze.
+
+## Video
+
+* [Fluent ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG.
 
 ## Robotics and IoT
 
