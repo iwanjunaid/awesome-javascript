@@ -5,7 +5,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Web Frameworks](#web-frameworks)
 * [UI Libraries](#ui-libraries)
 * [Mobile](#mobile)
-* [Package Managers and Sources](#package-manager-and-sources)
+* [Package Managers and Sources](#package-managers-and-sources)
 * [DOM](#dom)
 * [Real-time](#real-time)
 * [Testing](#testing)
