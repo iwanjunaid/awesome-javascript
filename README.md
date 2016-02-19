@@ -205,6 +205,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [PDFkit](https://github.com/devongovett/pdfkit) - A JavaScript PDF generation library for Node and the browser.
 * [PDF.js](https://github.com/mozilla/pdf.js) - A Portable Document Format (PDF) viewer that is built with HTML5.
+* [pdfmake](http://pdfmake.org/) - Client/server side PDF printing in pure JavaScript.
 
 ## Image Processing
 
