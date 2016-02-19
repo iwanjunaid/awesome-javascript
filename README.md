@@ -61,7 +61,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [React Native](https://facebook.github.io/react-native/) - A framework for building native apps using React.
 
-## Package Managers & Sources
+## Package Managers and Sources
 
 * [NPM](https://www.npmjs.com/) - Node Package Manager.
 * [Atmosphere](https://atmospherejs.com/) - The trusted source for Meteor packages.
