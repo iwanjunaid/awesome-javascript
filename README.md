@@ -24,6 +24,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Keyboard](#keyboard)
+* [Image Processing](#image-processing)
 * [Audio](#audio)
 * [Video](#video)
 * [Robotics and IoT](#robotics-and-iot)
@@ -164,6 +165,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Mousetrap](https://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
 * [Keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
+
+## Image Processing
+
+* [CamanJS](http://camanjs.com/) - A combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
 
 ## Audio
 
