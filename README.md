@@ -183,6 +183,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Audio
 
 * [SoundJS](http://www.createjs.com/soundjs) - A JavaScript library that provides a simple API, and powerful features to make working with audio a breeze.
+* [JuliusJS](https://github.com/zzmp/juliusjs) - A speech recognition library for the web.
 
 ## Video
 
