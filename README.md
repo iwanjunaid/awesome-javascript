@@ -6,6 +6,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [UI Libraries](#ui-libraries)
 * [Mobile](#mobile)
 * [Package Managers and Sources](#package-managers-and-sources)
+* [Process Manager](#process-manager)
 * [DOM](#dom)
 * [Real-time](#real-time)
 * [Testing](#testing)
@@ -69,6 +70,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [NPM](https://www.npmjs.com/) - Node Package Manager.
 * [Atmosphere](https://atmospherejs.com/) - The trusted source for Meteor packages.
+
+## Process Manager
+
+* [PM2](http://pm2.keymetrics.io/) - Production process manager for Node.js applications with a built-in load balancer.
 
 ## DOM
 
