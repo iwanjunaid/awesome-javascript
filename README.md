@@ -84,6 +84,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Process Manager
 
 * [PM2](http://pm2.keymetrics.io/) - Production process manager for Node.js applications with a built-in load balancer.
+* [Forever](https://github.com/foreverjs/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+* [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 
 ## Control Flow
 
