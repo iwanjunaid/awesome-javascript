@@ -96,8 +96,9 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Free Code Camp](http://www.freecodecamp.com/) - An open source community that helps you learn to code and help nonprofits.
 
-### Tips
+### Tips & Tricks
 
+* [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - A cheatsheet containing ES2015 (ES6) tips, tricks, best practices and code snippet examples for your day to day workflow.
 * [JS Tips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
 * [JavaScript Style](https://github.com/airbnb/javascript) - Airbnb JavaScript style guide.
 
