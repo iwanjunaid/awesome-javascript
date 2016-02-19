@@ -10,6 +10,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Date](#date)
 * [Math](#math)
 * [Data Structure](#data-structure)
+* [WYSIWYG](#wysiwyg)
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
@@ -70,6 +71,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Data Structure
 
 * [Buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in pure JavaScript.
+
+## WYSIWYG
+
+* [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 ## Blog Engine
 
