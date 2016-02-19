@@ -183,6 +183,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework.
 * [Cylon.js](https://cylonjs.com/) - Next generation robotics framework with support for 43 different platforms.
+* [Node-RED](http://nodered.org/) - A tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 
 ## Science
 
