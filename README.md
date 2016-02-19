@@ -14,6 +14,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Logging](#logging)
 * [Command-line](#command-line)
 * [HTTP](#http)
+* [Network](#network)
 * [Functional Programming](#functional-programming)
 * [Regular Expression](#regular-expression)
 * [Number](#number)
@@ -127,6 +128,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 * [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for Node.js.
 * [http-server](https://github.com/indexzero/http-server) - A simple zero-configuration command-line http server.
+
+## Network
+
+* [Torrent](https://github.com/maxogden/torrent) - Download torrents with node from the CLI.
 
 ## Functional Programming
 
