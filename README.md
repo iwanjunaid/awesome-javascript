@@ -42,6 +42,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## UI Libraries
 
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces using components, virtual DOM and implements one-way reactive data flow.
+* [Preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Mobile
 
