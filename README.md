@@ -31,6 +31,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Robotics and IoT](#robotics-and-iot)
 * [Science](#science)
   * [Satellite](#satellite)
+* [Miscellaneous Libraries](#miscellaneous-libraries)
 * [Resources](#resources)
 
 ## Web Frameworks
@@ -198,6 +199,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ### Satellite
 
 * [Himawari](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite.
+
+## Miscellaneous Libraries
+
+* [is.js](https://github.com/arasatasaygin/is.js) - Micro check library.
 
 ## Resources
 
