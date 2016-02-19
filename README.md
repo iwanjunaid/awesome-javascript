@@ -138,8 +138,23 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ## Network
 
-* [Torrent](https://github.com/maxogden/torrent) - Download torrents with node from the CLI.
+### Email
+
+* [Nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
+* [emailjs](https://github.com/eleith/emailjs) - Send emails, html and attachments (files, streams and strings) from node.js to any smtp server
+* [node-imap](https://github.com/mscdex/node-imap) - An IMAP client module for Node.js.
+
+### SSH
+
 * [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for Node.js.
+
+### FTP
+
+* [node-ftp](https://github.com/mscdex/node-ftp) - An FTP client module for Node.js.
+
+### Torrent
+
+* [Torrent](https://github.com/maxogden/torrent) - Download torrents with node from the CLI.
 
 ## Functional Programming
 
