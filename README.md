@@ -65,6 +65,13 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Vorlon.JS](http://vorlonjs.com/) - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 
+## HTTP
+
+* [Request](https://github.com/request/request) - Simplified HTTP request client.
+* [SuperAgent](https://github.com/visionmedia/superagent) - A small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features.
+* [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
+* [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for Node.js.
+
 ## Regular Expression
 
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - A JavaScript library that helps to construct difficult regular expressions.
