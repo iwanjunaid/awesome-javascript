@@ -263,6 +263,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Miscellaneous Libraries
 
 * [is.js](https://github.com/arasatasaygin/is.js) - Micro check library.
+* [faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data in Node.js and the browser.
 
 ## Resources
 
