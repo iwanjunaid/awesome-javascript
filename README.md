@@ -31,22 +31,23 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Web Frameworks
 
 * [AngularJS](https://angularjs.org/) - HTML enhanced for web apps. AngularJS lets you extend HTML vocabulary for your application.
+* [Ember.js](http://emberjs.com/) - A framework for creating ambitious web applications.
 * [Express](http://expressjs.com) - Fast, unopinionated, minimalist web framework for Node.js.
 * [Koa](http://koajs.com/) - Next generation web framework for Node.js.
 * [Meteor](https://www.meteor.com) - The JavaScript App Platform. Build apps that are a delight to use, faster than you ever thought possible.
 * [Meatier](https://github.com/mattkrick/meatier) - A Meteor alternative. Like Meteor but Meatier.
-* [Backbone.js](http://backbonejs.org/) - Give your JS app some Backbone with Models, Views, Collections, and Events.
-* [Ember.js](http://emberjs.com/) - A framework for creating ambitious web applications.
 * [Derby](http://derbyjs.com/) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+* [Backbone.js](http://backbonejs.org/) - Give your JS app some Backbone with Models, Views, Collections, and Events.
+* [Marionette](http://marionettejs.com/) - Simplifies your Backbone application code with robust views and architecture solutions.
 * [Hapi](http://hapijs.com/) - A rich framework for building applications and services. It enables developers to focus on writing reusable application logic instead of spending time building infrastructure.
+* [Diet](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
 * [Sails.js](http://sailsjs.org/) - Realtime MVC framework for Node.js.
 * [LoopBack](http://loopback.io/) - LoopBack is a highly-extensible, open-source Node.js framework for quickly create dynamic end-to-end REST APIs.
+* [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
 * [Aurelia](http://aurelia.io/) - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [Total.js](https://www.totaljs.com/) - Free web application framework for building Web sites and Web applications using JavaScript, HTML and CSS. Node.js (HMVC) web application framework.
 * [MERN](http://mern.io/) - A scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS.
 * [MEAN](http://mean.io/) - An opinionated fullstack javascript framework (MongoDB, Express, Angular and Node.JS) - which simplifies and accelerates web application development.
-* [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
-* [Diet](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
 
 ## UI Libraries
 
