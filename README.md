@@ -74,6 +74,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## UI Interaction Libraries
 
 * [Hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+* [Slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
 ## Package Managers and Sources
 
