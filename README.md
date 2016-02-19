@@ -68,6 +68,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Socket.io](http://socket.io/) - The fastest and most reliable real-time engine. Works on every platform, browser or device, focusing equally on reliability and speed.
 * [Deepstream.io](https://deepstream.io/) - A clusterable server that provides everything necessary to build powerful realtime applications.
+* [Faye](http://faye.jcoglan.com/) - A publish-subscribe messaging system based on the Bayeux protocol.
+* [Primus](https://github.com/primus/primus) - The creator god of transformers but now also known as universal wrapper for real-time frameworks.
 
 ## Testing
 
