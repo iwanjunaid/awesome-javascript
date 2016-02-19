@@ -146,6 +146,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Linter
 
 * [ESLint](http://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
+* [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript code quality tool.
 
 ## Blog Engine
 
