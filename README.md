@@ -118,6 +118,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Command-line
 
 * [Vorpal](http://vorpal.js.org/) - A framework that makes it easy to build mature, immersive command-line applications in JavaScript.
+* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 
 ## HTTP
 
@@ -199,6 +200,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [PDFkit](https://github.com/devongovett/pdfkit) - A JavaScript PDF generation library for Node and the browser.
 * [PDF.js](https://github.com/mozilla/pdf.js) - A Portable Document Format (PDF) viewer that is built with HTML5.
+
 ## Image Processing
 
 * [CamanJS](http://camanjs.com/) - A combination of a simple-to-use interface with advanced and efficient image/canvas editing techniques.
