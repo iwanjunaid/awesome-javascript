@@ -178,7 +178,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Accounting.js](https://github.com/openexchangerates/accounting.js) - A tiny JavaScript library providing simple and advanced number, money and currency formatting.
 * [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
-* [Chance](http://chancejs.com/) - A minimalist generator of random [1] strings, numbers, etc. to help reduce some monotony particularly while writing automated tests or anywhere else you need anything random.
+* [Chance](http://chancejs.com/) - A minimalist generator of random strings, numbers, etc. to help reduce some monotony particularly while writing automated tests or anywhere else you need anything random.
 
 ## Date
 
