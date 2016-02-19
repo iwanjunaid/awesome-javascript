@@ -5,6 +5,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Web Frameworks](#web-frameworks)
 * [Functional Programming](#functional-programming)
 * [Testing](#testing)
+* [Regular Expression](#regular-expression)
+* [Data Structure](#data-structure)
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
@@ -41,6 +43,14 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Vorlon.JS](http://vorlonjs.com/) - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 
+## Regular Expression
+
+* [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - A JavaScript library that helps to construct difficult regular expressions.
+
+## Data Structure
+
+* [Buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in pure JavaScript.
+
 ## Blog Engine
 
 * [Ghost](https://ghost.org/) -  An open source publishing platform which is beautifully designed, easy to use, and free for everyone.
@@ -72,7 +82,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ### Books
 
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) by Nicholas C. Zakas 
+* [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) by Nicholas C. Zakas
 
 ## License
 
