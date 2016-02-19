@@ -130,6 +130,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Math
 
 * [Math.js](http://mathjs.org/) - An extensive math library for JavaScript and Node.js
+* [NumJs](https://github.com/nicolaspanel/numjs) - A npm/bower package for scientific computing with JavaScript.
 
 ## Data Structure
 
