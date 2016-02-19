@@ -35,7 +35,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [LoopBack](http://loopback.io/) - LoopBack is a highly-extensible, open-source Node.js framework for quickly create dynamic end-to-end REST APIs.
 * [Aurelia](http://aurelia.io/) - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
 * [Total.js](https://www.totaljs.com/) - Free web application framework for building Web sites and Web applications using JavaScript, HTML and CSS. Node.js (HMVC) web application framework.
-* [Mean](http://mean.io/) - An opinionated fullstack javascript framework - which simplifies and accelerates web application development.
+* [MERN](http://mern.io/) - A scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS.
+* [MEAN](http://mean.io/) - An opinionated fullstack javascript framework - which simplifies and accelerates web application development.
 * [AquaJS](http://www.aquajsio.com/) - A Node.js Framework for your next API development. It gives you a quick and organized way to start developing an application.
 * [Diet](http://dietjs.com/) - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
 
