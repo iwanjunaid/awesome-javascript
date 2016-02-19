@@ -96,6 +96,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Free Code Camp](http://www.freecodecamp.com/) - An open source community that helps you learn to code and help nonprofits.
 
+### Tutorial
+
+* [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
+
 ### Tips & Tricks
 
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - A cheatsheet containing ES2015 (ES6) tips, tricks, best practices and code snippet examples for your day to day workflow.
