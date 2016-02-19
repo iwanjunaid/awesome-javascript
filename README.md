@@ -21,6 +21,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
+* [Keyboard](#keyboard)
 * [Audio](#audio)
 * [Video](#video)
 * [Robotics & IoT](#robotics-iot)
@@ -139,6 +140,11 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Data Processing
 
 * [EclairJS](https://github.com/EclairJS/eclairjs-node) - Node.js API for Apache Spark with Remote Client.
+
+## Keyboard
+
+* [Mousetrap](https://craig.is/killing/mice) - A simple library for handling keyboard shortcuts in Javascript.
+* [Keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
 
 ## Audio
 
