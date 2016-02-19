@@ -22,6 +22,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Data Structure](#data-structure)
 * [WYSIWYG](#wysiwyg)
 * [Linter](#linter)
+* [Editors](#editors)
 * [Blog Engine](#blog-engine)
 * [CMS](#cms)
 * [Data Visualization](#data-visualization)
@@ -165,6 +166,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [ESLint](http://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 * [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript code quality tool.
+
+## Editors
+
+* [NTVS](https://github.com/Microsoft/nodejstools) - A free, open source plugin that turns Visual Studio into a Node.js IDE. It is designed, developed, and supported by Microsoft and the community.
 
 ## Blog Engine
 
