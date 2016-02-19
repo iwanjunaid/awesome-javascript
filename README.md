@@ -111,6 +111,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Underscrore](http://underscorejs.org/) - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 * [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance, & extras.
 * [Lazy.js](http://danieltao.com/lazy.js/) - Similar to Underscore and Lodash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios.
+* [Vitals](https://www.npmjs.com/package/node-vitals) - Do more with less. A simple, high-performing, functional JavaScript library.
 
 ## Regular Expression
 
