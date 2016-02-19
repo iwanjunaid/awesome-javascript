@@ -90,6 +90,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Chai](http://chaijs.com/) - A BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 * [Intern](https://theintern.github.io/) - Software testing for humans.
 * [QUnit](https://qunitjs.com/) - A powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!
+* [CodeceptJS](http://codecept.io/) - Modern era acceptance testing for Node.js.
 
 ## Logging
 
