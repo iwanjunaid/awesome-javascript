@@ -207,8 +207,9 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ### Tutorial
 
-* [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
 * [Angular 2 Education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2.
+* [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
+* [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively to replace Lodash or Underscore.
 
 ### Tips and Tricks
 
