@@ -144,6 +144,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## WYSIWYG
 
 * [MediumEditor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+* [ContentTools](http://getcontenttools.com/) - A JS library for building WYSIWYG editors for HTML content.
 
 ## Linter
 
