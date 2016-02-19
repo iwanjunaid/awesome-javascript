@@ -6,6 +6,9 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Functional Programming](#functional-programming)
 * [Testing](#testing)
 * [Regular Expression](#regular-expression)
+* [Number](#number)
+* [Date](#date)
+* [Math](#math)
 * [Data Structure](#data-structure)
 * [Blog Engine](#blog-engine)
 * [Data Visualization](#data-visualization)
@@ -46,6 +49,21 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Regular Expression
 
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - A JavaScript library that helps to construct difficult regular expressions.
+
+## Number
+
+* [Accounting.js](https://github.com/openexchangerates/accounting.js) - A tiny JavaScript library providing simple and advanced number, money and currency formatting.
+* [Numeral.js](http://numeraljs.com/) - A javascript library for formatting and manipulating numbers.
+* [Chance](http://chancejs.com/) - A minimalist generator of random [1] strings, numbers, etc. to help reduce some monotony particularly while writing automated tests or anywhere else you need anything random.
+
+## Date
+
+* [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
+* [Date](https://github.com/MatthewMueller/date) - Date for humans.
+
+## Math
+
+* [Math.js](http://mathjs.org/) - An extensive math library for JavaScript and Node.js
 
 ## Data Structure
 
