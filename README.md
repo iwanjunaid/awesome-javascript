@@ -7,6 +7,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Mobile](#mobile)
 * [Package Managers and Sources](#package-managers-and-sources)
 * [Process Manager](#process-manager)
+* [Control Flow](#control-flow)
 * [DOM](#dom)
 * [Real-time](#real-time)
 * [Testing](#testing)
@@ -74,6 +75,14 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Process Manager
 
 * [PM2](http://pm2.keymetrics.io/) - Production process manager for Node.js applications with a built-in load balancer.
+
+## Control Flow
+
+* [Async](https://github.com/caolan/async) - A utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+* [q](https://github.com/kriskowal/q) - A tool for creating and composing asynchronous promises in JavaScript.
+* [Bluebird](https://github.com/petkaantonov/bluebird) - A full featured promise library with unmatched performance.
+* [When.js](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+* [Co](https://github.com/tj/co) - The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc).
 
 ## DOM
 
