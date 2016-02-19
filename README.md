@@ -5,7 +5,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Web Frameworks](#web-frameworks)
 * [UI Libraries](#ui-libraries)
 * [Mobile](#mobile)
-* [Package Managers &amp; Sources](#package-manager--sources)
+* [Package Managers and Sources](#package-manager-and-sources)
 * [DOM](#dom)
 * [Real-time](#real-time)
 * [Testing](#testing)
@@ -25,7 +25,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Keyboard](#keyboard)
 * [Audio](#audio)
 * [Video](#video)
-* [Robotics & IoT](#robotics-iot)
+* [Robotics and IoT](#robotics-and-iot)
 * [Science](#science)
   * [Satellite](#satellite)
 * [Resources](#resources)
@@ -61,7 +61,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [React Native](https://facebook.github.io/react-native/) - A framework for building native apps using React.
 
-## Package Managers &amp; Sources
+## Package Managers & Sources
 
 * [NPM](https://www.npmjs.com/) - Node Package Manager.
 * [Atmosphere](https://atmospherejs.com/) - The trusted source for Meteor packages.
@@ -182,7 +182,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
 
-### Tips & Tricks
+### Tips and Tricks
 
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - A cheatsheet containing ES2015 (ES6) tips, tricks, best practices and code snippet examples for your day to day workflow.
 * [JS Tips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
