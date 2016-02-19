@@ -139,6 +139,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Network
 
 * [Torrent](https://github.com/maxogden/torrent) - Download torrents with node from the CLI.
+* [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for Node.js.
 
 ## Functional Programming
 
