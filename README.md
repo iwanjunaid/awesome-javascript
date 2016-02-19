@@ -136,6 +136,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data and helps you bring data to life using HTML, SVG, and CSS.
 * [Sigma](http://sigmajs.org/) - A JavaScript library dedicated to graph drawing.
+* [Timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets.
 
 ## Data Processing
 
