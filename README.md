@@ -280,7 +280,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 * [Free Code Camp](http://www.freecodecamp.com/) - An open source community that helps you learn to code and help nonprofits.
 
-### Tutorial
+### Lessons
 
 * [Angular 2 Education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2.
 * [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
