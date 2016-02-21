@@ -212,6 +212,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Editors
 
 * [NTVS](https://github.com/Microsoft/nodejstools) - A free, open source plugin that turns Visual Studio into a Node.js IDE. It is designed, developed, and supported by Microsoft and the community.
+* [Abricotine](https://github.com/brrd/Abricotine) - A markdown editor for desktop.
 
 ## Blog Engine
 
