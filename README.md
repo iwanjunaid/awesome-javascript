@@ -286,7 +286,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
 * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain JavaScript.
 * [You don't (may not) need Lodash/Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively to replace Lodash or Underscore.
-* [Regular Expressions](http://eloquentjavascript.net/09_regexp.html) - Regular expressions tutorial from Eloquent JavaScript.
+* [Regular Expressions in JavaScript](http://javascript.info/tutorial/regular-expressions-javascript) - Regular expressions in JavaScript
 
 ### Tips and Tricks
 
