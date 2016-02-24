@@ -27,6 +27,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Editors](#editors)
 * [Blog Engine](#blog-engine)
 * [CMS](#cms)
+* [Social Media](#social-media)
 * [Data Visualization](#data-visualization)
 * [Data Processing](#data-processing)
 * [Keyboard](#keyboard)
@@ -224,6 +225,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## CMS
 
 * [Relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL.
+
+## Social Media
+
+* [fb-sleep](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
 
 ## Data Visualization
 
