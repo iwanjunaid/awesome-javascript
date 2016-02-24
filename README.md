@@ -12,7 +12,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Real-time](#real-time)
 * [Testing](#testing)
 * [Logging](#logging)
-* [Command-line](#command-line)
+* [CLI](#cli)
 * [HTTP](#http)
 * [Network](#network)
 * [Functional Programming](#functional-programming)
@@ -127,10 +127,11 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Winston](https://github.com/winstonjs/winston) - a multi-transport async logging library for Node.js.
 * [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for Node.js services.
 
-## Command-line
+## CLI
 
 * [Vorpal](http://vorpal.js.org/) - A framework that makes it easy to build mature, immersive command-line applications in JavaScript.
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+* [Cash](https://github.com/dthree/cash) - A cross-platform implementation of Unix shell commands written in pure ES6.
 
 ## HTTP
 
