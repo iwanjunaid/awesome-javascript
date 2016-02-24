@@ -135,6 +135,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Vorpal](http://vorpal.js.org/) - A framework that makes it easy to build mature, immersive command-line applications in JavaScript.
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [Cash](https://github.com/dthree/cash) - A cross-platform implementation of Unix shell commands written in pure ES6.
+* [how2](https://github.com/santinic/how2) - Stackoverflow from the terminal.
 
 ## HTTP
 
