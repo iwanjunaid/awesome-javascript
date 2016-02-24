@@ -38,6 +38,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Science](#science)
   * [Satellite](#satellite)
 * [Miscellaneous Libraries](#miscellaneous-libraries)
+* [Desktop App](#desktop-app)
 * [Resources](#resources)
 
 ## Web Frameworks
@@ -274,6 +275,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Miscellaneous Libraries
 
 * [is.js](https://github.com/arasatasaygin/is.js) - Micro check library.
+
+## Desktop App
+
+* [Wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox. Bringing the Gmail & Google Inbox experience to your desktop in a neatly packaged app.
 
 ## Resources
 
