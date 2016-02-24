@@ -289,6 +289,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ## Desktop App
 
+* [N1](https://github.com/nylas/N1) - An open-source mail client built on the modern web with Electron, React, and Flux.
 * [Wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox. Bringing the Gmail & Google Inbox experience to your desktop in a neatly packaged app.
 
 ## Resources
