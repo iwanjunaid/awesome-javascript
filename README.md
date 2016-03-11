@@ -300,6 +300,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ### Lessons
 
+* [JS Bits](https://github.com/vasanthk/js-bits) - JavaScript concepts explained with proper code samples.
 * [Angular 2 Education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2.
 * [Beginner Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) - A simple webpack tutorial.
 * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain JavaScript.
