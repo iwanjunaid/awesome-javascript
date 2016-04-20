@@ -13,6 +13,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Testing](#testing)
 * [Logging](#logging)
 * [CLI](#cli)
+* [Migration](#migration)
 * [HTTP](#http)
 * [Network](#network)
 * [Functional Programming](#functional-programming)
@@ -136,6 +137,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [Cash](https://github.com/dthree/cash) - A cross-platform implementation of Unix shell commands written in pure ES6.
 * [how2](https://github.com/santinic/how2) - Stackoverflow from the terminal.
+
+## Migration
+
+* [migrate](https://github.com/tj/node-migrate) - Abstract migration framework for node.
 
 ## HTTP
 
