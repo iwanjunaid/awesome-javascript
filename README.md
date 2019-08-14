@@ -12,6 +12,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Real-time](#real-time)
 * [Testing](#testing)
 * [Logging](#logging)
+* [Profiling](#profiling)
 * [CLI](#cli)
 * [Migration](#migration)
 * [HTTP](#http)
@@ -128,8 +129,12 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ## Logging
 
-* [Winston](https://github.com/winstonjs/winston) - a multi-transport async logging library for Node.js.
+* [Winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for Node.js.
 * [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for Node.js services.
+
+## Profiling
+
+* [Clinic.js](https://clinicjs.org/) - Tools to help diagnose and pinpoint Node.js performance issues.
 
 ## CLI
 
