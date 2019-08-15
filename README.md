@@ -135,6 +135,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Profiling
 
 * [Clinic.js](https://clinicjs.org/) - Tools to help diagnose and pinpoint Node.js performance issues.
+* [0x](https://github.com/davidmarkclements/0x) - Single-command flamegraph profiling.
 
 ## CLI
 
