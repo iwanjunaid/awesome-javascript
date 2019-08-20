@@ -14,6 +14,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Logging](#logging)
 * [Profiling](#profiling)
 * [CLI](#cli)
+* [ORM](#orm)
 * [Migration](#migration)
 * [HTTP](#http)
 * [Network](#network)
@@ -144,6 +145,10 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * [Cash](https://github.com/dthree/cash) - A cross-platform implementation of Unix shell commands written in pure ES6.
 * [how2](https://github.com/santinic/how2) - Stackoverflow from the terminal.
+
+## ORM
+
+* [Sequelize](https://sequelize.org/) - A promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
 
 ## Migration
 
