@@ -149,6 +149,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## ORM
 
 * [Sequelize](https://sequelize.org/) - A promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
+* [Bookshelf.js](https://bookshelfjs.org/) - A JavaScript ORM for Node.js, built on the Knex SQL query builder.
+* [Objection.js](https://vincit.github.io/objection.js/) - An SQL-friendly ORM for Node.js
 
 ## Migration
 
