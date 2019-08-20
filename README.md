@@ -131,6 +131,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ## Logging
 
+* [Pino](http://getpino.io/#/) - Very low overhead Node.js logger, inspired by Bunyan.
 * [Winston](https://github.com/winstonjs/winston) - A multi-transport async logging library for Node.js.
 * [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging module for Node.js services.
 
