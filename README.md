@@ -119,6 +119,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Testing
 
 * [Mocha](http://mochajs.org/) - A feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun.
+* [Jest](https://jestjs.io/) - A delightful JavaScript Testing Framework with a focus on simplicity.
 * [Jasmine](http://jasmine.github.io/) - A Behavior Driven Development testing framework for JavaScript. It's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 * [Vorlon.JS](http://vorlonjs.com/) - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 * [Nightwatch.js](http://nightwatchjs.org/) - Write End-to-End tests in Node.js quickly and effortlessly that run against a Selenium server.
