@@ -223,6 +223,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Data Structure
 
 * [Buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in pure JavaScript.
+* [TreeModel](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in javascript.
 
 ## WYSIWYG
 
