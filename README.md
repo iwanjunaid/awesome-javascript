@@ -233,6 +233,8 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 
 ## ASCII
 
+* [blessed](https://github.com/chjj/blessed) - A curses-like library with a high level terminal interface API for node.js.
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build dashboards (or any other application) using ascii/ansi art and javascript.
 * [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree) - Renders ASCII trees from an object-oriented object graph.
 
 ## Linter
