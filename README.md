@@ -20,6 +20,7 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 * [Network](#network)
 * [Functional Programming](#functional-programming)
 * [Regular Expression](#regular-expression)
+* [Scheduling & Booking](#scheduling)
 * [String](#string)
 * [Number](#number)
 * [Date](#date)
@@ -200,6 +201,11 @@ A curated list of awesome JavaScript frameworks, libraries, tools and resources.
 ## Regular Expression
 
 * [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - A JavaScript library that helps to construct difficult regular expressions.
+
+## Scheduling
+
+* [Scheduling API](https://www.spurwing.io/) - Enterprise ready Appointment Scheduling API by Spurwing
+* [Cronofy] - https://www.cronofy.com/ - Scheduling API and Resources
 
 ## String
 
